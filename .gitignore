@@ -1,6 +1,7 @@
 # Java/Binaries
 /bin/
 /NetDot.jar
+/doc/
 
 # IDEs
 /.idea/
